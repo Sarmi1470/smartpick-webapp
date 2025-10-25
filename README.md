@@ -15,8 +15,8 @@
 - UI Icons: lucide-react
 - State Management: React Hooks
 
-For now the the product in focus are books. This webapp scans the ISBN qr behind the books and reports on screens with the digits. 
-next to come: take the digits and map it back to an exstining databse on books and feed the AI with the book data so it can lead to a dynamic quiz and make confident product choices for the customer. 
+**For now the the product in focus are books. This webapp scans the ISBN qr behind the books and reports on screens with the digits. 
+next to come: take the digits and map it back to an exstining databse on books and feed the AI with the book data so it can lead to a dynamic quiz and make confident product choices for the customer.**
 
 ## How to Run Locally
 1. Clone the repo
